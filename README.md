@@ -1,4 +1,4 @@
-This is a micic project made for UTD CS3354  
+This is a micic project
 =======================================================  
 
 A Practice for agile methodology   
